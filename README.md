@@ -11,5 +11,16 @@
 
 - Sensor suhu adalah perangkat yang digunakan untuk mengukur suhu atau perubahan suhu dalam suatu lingkungan atau objek. Ada berbagai jenis sensor suhu, masing-masing dengan prinsip kerja dan aplikasi yang berbeda.
 
+<h1 align="center">Software</h1>
+
+- Arduino IDE
+
+<h1 align="center">Hardware</h1>
+
+- Arduino Uno
+- Peltier
+- Sensor Suhu
+- 3 Normal Fan
+
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
