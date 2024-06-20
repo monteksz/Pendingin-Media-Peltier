@@ -1,4 +1,4 @@
-<h1 align="center">Pendingin Air Media Peltier</h1>
+<h1 align="center">Pendingin Media Peltier</h1>
 <h3 align="left">Pendingin Air Media Peltier adalah sistem pendinginan yang menggunakan modul Peltier untuk menghilangkan panas dari air yang didinginkan. Modul Peltier, atau termoelektrik, bekerja berdasarkan efek Peltier di mana arus listrik yang melewati dua jenis bahan semikonduktor menghasilkan perbedaan suhu, dengan satu sisi modul menjadi dingin dan sisi lainnya panas, Sistem ini juga dilengkapi dengan sensor suhu untuk memantau suhu air secara real-time.</h3>
 
 
